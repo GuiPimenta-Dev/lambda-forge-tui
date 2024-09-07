@@ -1,0 +1,1348 @@
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
+2024-08-14 19:20:44.366000 - HelloWorld: END RequestId: 438441d8-d3f4-42af-a809-6191d36264e6
+
+2024-08-14 19:20:44.366000 - HelloWorld: REPORT RequestId: 438441d8-d3f4-42af-a809-6191d36264e6	Duration: 1.02 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.538000 - HelloWorld: START RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba Version: $LATEST
+
+2024-08-14 19:20:44.539000 - HelloWorld: END RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba
+
+2024-08-14 19:20:44.539000 - HelloWorld: REPORT RequestId: eedc2717-2afb-4a16-a853-6c7a3e3ff0ba	Duration: 1.27 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:46.995000 - HelloWorld: START RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e Version: $LATEST
+
+2024-08-14 19:20:46.997000 - HelloWorld: END RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e
+
+2024-08-14 19:20:46.997000 - HelloWorld: REPORT RequestId: 1f838e61-1d54-4cca-8aa0-81d0ae5e384e	Duration: 1.42 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:50.821000 - HelloWorld: START RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162 Version: $LATEST
+
+2024-08-14 19:20:50.822000 - HelloWorld: END RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162
+
+2024-08-14 19:20:50.822000 - HelloWorld: REPORT RequestId: 13f3c0ba-35fd-4990-ba20-7eb314f20162	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:51.409000 - HelloWorld: START RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39 Version: $LATEST
+
+2024-08-14 19:20:51.411000 - HelloWorld: END RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39
+
+2024-08-14 19:20:51.411000 - HelloWorld: REPORT RequestId: f8a20b2d-8dbf-41ee-a90b-020dc7dbca39	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.312000 - HelloWorld: START RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38 Version: $LATEST
+
+2024-08-14 19:20:53.313000 - HelloWorld: END RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38
+
+2024-08-14 19:20:53.313000 - HelloWorld: REPORT RequestId: 6c3c8cfc-01ed-41e2-a674-14da047a2c38	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:53.701000 - HelloWorld: START RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b Version: $LATEST
+
+2024-08-14 19:20:53.702000 - HelloWorld: END RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b
+
+2024-08-14 19:20:53.702000 - HelloWorld: REPORT RequestId: 5d6baad3-6d06-40df-a7bb-efb49552815b	Duration: 1.10 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:07.598000 - HelloWorld: START RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d Version: $LATEST
+
+2024-08-14 19:21:07.599000 - HelloWorld: END RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d
+
+2024-08-14 19:21:07.599000 - HelloWorld: REPORT RequestId: b0795124-3c3b-4935-8eae-78b8d9c23c8d	Duration: 1.06 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:21:08.720000 - HelloWorld: START RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb Version: $LATEST
+
+2024-08-14 19:21:08.721000 - HelloWorld: END RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb
+
+2024-08-14 19:21:08.721000 - HelloWorld: REPORT RequestId: e802ad58-368e-41cd-a1d2-45c6fab07bfb	Duration: 1.31 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:22:16.739000 - HelloWorld: START RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270 Version: $LATEST
+
+2024-08-14 19:22:16.748000 - HelloWorld: END RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270
+
+2024-08-14 19:22:16.748000 - HelloWorld: REPORT RequestId: 4af7f3dd-fcbc-4b41-9a84-c58003bac270	Duration: 9.14 ms	Billed Duration: 10 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:27.660000 - HelloWorld: INIT_START Runtime Version: python:3.9.v56	Runtime Version ARN: arn:aws:lambda:us-east-2::runtime:52e9b67213e4ba48e3c265ce3aa86c478ce792bbd68bc88225db1202a975ddda
+
+2024-08-14 19:20:27.741000 - HelloWorld: START RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542 Version: $LATEST
+
+2024-08-14 19:20:27.743000 - HelloWorld: END RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542
+
+2024-08-14 19:20:27.743000 - HelloWorld: REPORT RequestId: 109e80ee-cbc5-49ad-991f-a6a2813e4542	Duration: 2.15 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 31 MB	Init Duration: 79.75 ms	
+
+2024-08-14 19:20:42.245000 - HelloWorld: START RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b Version: $LATEST
+
+2024-08-14 19:20:42.246000 - HelloWorld: END RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b
+
+2024-08-14 19:20:42.246000 - HelloWorld: REPORT RequestId: fd272491-2119-4a91-82f4-97b9fd930f2b	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 32 MB	
+
+2024-08-14 19:20:44.365000 - HelloWorld: START RequestId: 438441d8-d3f4-42af-a809-6191d36264e6 Version: $LATEST
+
