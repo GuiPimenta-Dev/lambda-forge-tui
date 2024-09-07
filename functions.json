@@ -1,13 +1,13 @@
 [
     {
-        "name": "AskQuestion",
-        "path": "./functions/rag/ask_question",
-        "description": "anything",
+        "name": "HelloWorld",
+        "path": "./functions/hello_world",
+        "description": "A simple hello world",
         "timeout": 60,
         "triggers": [
             {
                 "service": "api_gateway",
-                "trigger": "/rag",
+                "trigger": "/hello_world",
                 "method": "GET",
                 "public": true
             }
